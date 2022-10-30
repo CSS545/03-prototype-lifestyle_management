@@ -6,3 +6,8 @@
 
 We are submitting the Initial Prototype for Lifestyle Management and there are no changes in terms of project idea and project members.
 The prototype aligns with the Initial Mockup which we have submitted earlier.
+
+**Happy Path for Prototype:**
+User Login → Click ‘Breaks’ on Dashboard → Click on any Break → Edit Break →
+After selecting the time & date, alarm will be set → Alarm/Notification will alert the
+user about the saved break at that particular time.
